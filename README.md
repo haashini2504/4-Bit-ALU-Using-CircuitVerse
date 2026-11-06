@@ -85,4 +85,4 @@ Completed and simulated successfully.
 HAASHINI D V
 
 ## Simulation Platform
-🔗 [Click here to view the live circuit] (https://circuitverse.org/users/458983/projects/4-bit-alu-9b06fc11-35e4-4593-8c35-f23e9b7f2633)
+🔗 [Click here to view the live circuit](https://circuitverse.org/users/458983/projects/4-bit-alu-9b06fc11-35e4-4593-8c35-f23e9b7f2633)
